@@ -1,4 +1,4 @@
-###Pomodoro timer along with Task Manager
+### Pomodoro timer along with Task Manager
 The Pomodoro Timer is a productivity tool that helps individuals manage their time effectively by breaking work into intervals, traditionally 25 minutes in length, separated by short breaks. This technique is known as the Pomodoro Technique.
 
 
