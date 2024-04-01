@@ -17,13 +17,15 @@ function Quotable() {
     return (
         <div
             className={
-                " text-lg m-2 p-2 border-l-8 leading-relaxed border-[#F7DF94] text-left"
+                "text-lg m-2 p-2 border-l-8 leading-relaxed border-[#F7DF94] text-center" // Centering text
             }
+            style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }} // Flexbox for centering
         >
             <p>"{quote}"</p>
             <cite>- {author}</cite>
         </div>
     )
+    
 }
 
 export default Quotable
